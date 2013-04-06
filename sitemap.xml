@@ -1,36 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>
+            http://huup.github.com/blog/2013/04/06/jurnal-kak-instrument-resheniya-problem.html
+        </loc>
+        <lastmod>2013-04-07T00:11:42+04:00</lastmod>
+    </url>
+    <url>
         <loc>http://huup.github.com/blog/2013/04/06/ne-mogu-uderjat-secret.html</loc>
-        <lastmod>2013-04-06T23:59:41+04:00</lastmod>
+        <lastmod>2013-04-07T00:05:18+04:00</lastmod>
     </url>
     <url>
         <loc>http://huup.github.com/blog/2013/04/06/perviy-post.html</loc>
-        <lastmod>2013-04-06T23:59:23+04:00</lastmod>
+        <lastmod>2013-04-07T00:05:18+04:00</lastmod>
     </url>
     <url>
         <loc>http://huup.github.com/blog/2013/04/06/udivitelnyi-secret.html</loc>
-        <lastmod>2013-04-06T23:59:43+04:00</lastmod>
+        <lastmod>2013-04-07T00:05:18+04:00</lastmod>
     </url>
     <url>
         <loc>http://huup.github.com/authors/</loc>
-        <lastmod>2013-04-06T23:59:43+04:00</lastmod>
+        <lastmod>2013-04-07T00:11:42+04:00</lastmod>
     </url>
     <url>
         <loc>http://huup.github.com/authors/stevepavlina/</loc>
-        <lastmod>2013-04-07T00:02:07+04:00</lastmod>
+        <lastmod>2013-04-07T00:11:42+04:00</lastmod>
     </url>
     <url>
         <loc>http://huup.github.com/blog/archives/</loc>
-        <lastmod>2013-04-06T23:59:43+04:00</lastmod>
+        <lastmod>2013-04-07T00:11:42+04:00</lastmod>
     </url>
     <url>
         <loc>http://huup.github.com/blog/</loc>
-        <lastmod>2013-04-06T23:59:43+04:00</lastmod>
+        <lastmod>2013-04-07T00:11:42+04:00</lastmod>
     </url>
     <url>
         <loc>http://huup.github.com/</loc>
-        <lastmod>2013-04-06T23:59:43+04:00</lastmod>
+        <lastmod>2013-04-07T00:11:42+04:00</lastmod>
     </url>
     <url>
         <loc>http://huup.github.com/robots.txt</loc>
